@@ -1,7 +1,7 @@
 const { ReturnDocument } = require('mongodb')
-const Job = require('../models/job')
+const Job = require('../models/Job')
 
-// Create a new job application
+// Create a new job applicatio
 exports.createJob = async (req, res) => {
   try {
     const job = await Job.create({

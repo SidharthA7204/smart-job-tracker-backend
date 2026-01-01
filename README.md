@@ -56,4 +56,16 @@ backend
 ├── config # Database configuration
 └── server.js # App entry point
 
+<img width="701" height="303" alt="image" src="https://github.com/user-attachments/assets/63fde992-2927-4149-a453-c92e984f976f" />
+
+## 👤 Author
+
+Sidharth A  
+- GitHub: https://github.com/SidharthA7204  
+- LinkedIn: www.linkedin.com/in/sidhartha742003
+
+Open to opportunities
+
+
+
 

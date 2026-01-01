@@ -45,4 +45,4 @@ const jobSchema = new mongoose.Schema(
 )
 
 // ✅ SAFE EXPORT
-module.exports = mongoose.models.job || mongoose.model("job", jobSchema)
+module.exports = mongoose.models.Job || mongoose.model("Job", jobSchema)

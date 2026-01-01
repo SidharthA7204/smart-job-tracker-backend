@@ -1,8 +1,8 @@
-exports.analyzeJobAndSave = async (req, res) => {
+  exports.analyzeJobAndSave = async (req, res) => {
   try {
     const { jobId } = req.params
 
-    const Job = require("../models/job")
+    const Job = require("../models/Job")
     const OpenAI = require("openai")
 
     const job = await Job.findById(jobId)

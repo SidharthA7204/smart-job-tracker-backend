@@ -56,8 +56,6 @@ backend
 ├── config # Database configuration
 └── server.js # App entry point
 
-<img width="701" height="303" alt="image" src="https://github.com/user-attachments/assets/63fde992-2927-4149-a453-c92e984f976f" />
-
 ## 👤 Author
 
 Sidharth A  
